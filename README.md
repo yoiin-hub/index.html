@@ -46,15 +46,31 @@
 
     <div class="hero-image">
 
-        <div class="chat-card">
+        <h3>🤖 Flow</h3>
 
-            <h3>🤖 Flow AI</h3>
+<p><strong>Customer</strong></p>
+<p>I'm looking for a perfume under ₦20,000.</p>
 
-            <p><strong>Customer:</strong> I'm looking for a perfume under ₦20,000.</p>
+<hr>
 
-            <p><strong>Flow:</strong> I found three great options for you. Amber Mist is my top recommendation.</p>
+<p><strong>Flow</strong></p>
+<p>I found three products that match your budget.</p>
 
-        </div>
+<div class="product">
+✨ Amber Mist — ₦18,500
+</div>
+
+<div class="product">
+🌙 Midnight Bloom — ₦19,900
+</div>
+
+<div class="product">
+🌊 Ocean Noir — ₦17,000
+</div>
+
+<button class="hero-btn">
+View Recommendations
+</button>
 
     </div>
 
