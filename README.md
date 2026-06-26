@@ -23,7 +23,7 @@
     </nav>
 
     <button class="cta-btn">
-        Get Started
+        Start Selling
     </button>
 </header>
 
@@ -33,11 +33,10 @@
 
         <h1>
             Turn your WhatsApp business into an AI-powered storefront.
-        </h1>
-
+        </h1> 
         <p>
-            Sell smarter with an AI assistant that answers questions, recommends products and converts chats into customers.
-        </p>
+    CartFlow transforms WhatsApp, Instagram and Facebook businesses into AI-powered storefronts that answer questions, recommend products and help customers buy faster.
+</p>
 
         <button class="hero-btn">
             Talk to Flow
